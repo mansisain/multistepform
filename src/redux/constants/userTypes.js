@@ -1,0 +1,11 @@
+export const SET_DEVELOPMENT = 'SET_DEVELOPMENT';
+export const SET_DEPARTMENT = 'SET_DEPARTMENT';
+export const SET_EMAIL = 'SET_EMAIL';
+export const SET_PHONE = 'SET_PHONE';
+export const SET_FNAME = 'SET_FNAME';
+export const SET_LNAME = 'SET_LNAME';
+export const SET_COMPANYNAME = 'SET_COMPANYNAME';
+export const SET_JOBTITLE = 'SET_JOBTITLE';
+export const RESET_MODAL = 'RESET_MODAL';
+export const SET_INCREASE_PROGRESS = 'SET_INCREASE_PROGRESS';
+export const SET_DECREASE_PROGRESS = 'SET_DECREASE_PROGRESS';
